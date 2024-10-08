@@ -1,1 +1,1 @@
-# KLSAT1
+Designed, developed, and launched a high-altitude balloon satellite, achieving 35KM vertical and 80KM horizontal travel. Key contributions include expertise in microprocessors,adavanced micro controllers,Linux programming, and camera module integration and also pcb level soldering and designing. Designed an antenna for HF and VHF frequencies and tracked the satellite's path using GPS modules for precise monitoring and control.
